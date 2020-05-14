@@ -5,6 +5,7 @@ import android.app.Activity
 import android.app.Application
 import android.content.pm.ActivityInfo
 import android.os.Bundle
+import android.widget.EditText
 
 class InteractiveStoryApplication:Application() {
 
